@@ -1,0 +1,6 @@
+npm init -y : For insall pakages for package .json
+npm install express : for install express
+npm install -g nodemon - for live server loadind
+change name of script start to -node to nodemon
+npm i dotenv : for to access  the environment variable
+Schema meaning structure of database
